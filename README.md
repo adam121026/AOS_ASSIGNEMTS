@@ -3,14 +3,14 @@
 2. Open the project folder 2024202013_A1 folder.
 3. For instance if the project is in desktop folder
 - open the bash and type `cd ./desktop/2024202013_A1` 
-4. Before execution Complie the prgrams using:
+4. Before execution Compile the programs using:
      - question 1: `g++ 2024202013_A1_Q1.cpp`    (write it in the terminal)
      - question 2: `g++ 2024202013_A1_Q2.cpp`
 
 
 ## Question 1:
 ## Executing the file ##
-1. To execute the compliled program in the terminal do the following
+1. To execute the compiled program in the terminal do the following
   - `./a.out <input_file> <flag 0 or 1> <start_index> <end_index>`
       (flag 0 no indices are required, flag 1 indices must be withing range of file and numeric)
    ## Example
@@ -40,7 +40,7 @@
 
 ## Question 2:
 ## Executing the file ##
-1. To execute the compliled program in the terminal do the following
+1. To execute the compiled program in the terminal do the following
   - `./a.out <new_file_path> <old_file_path> <directory_path>`
    ## Example
   - `./a.out ./Assignment1/1_input.txt input.txt Assignmen1`
